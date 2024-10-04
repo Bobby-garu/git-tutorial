@@ -1,6 +1,6 @@
 # git-tutorial
 Learn Git here
-GIT Commands
+# GIT Commands
 
 git init --> for initializing
 git status
